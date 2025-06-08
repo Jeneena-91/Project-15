@@ -1,0 +1,12 @@
+```txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+spacy
+lightgbm
+tqdm
+jupyterlab
+joblib
